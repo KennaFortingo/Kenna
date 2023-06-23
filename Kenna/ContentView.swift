@@ -24,7 +24,7 @@ var body: some View {
             Image("vb")
         
                 
-            Button("More about me!")
+            Button("More about me!!!!!")
             {textTitle = "Hi my name is Kenna Fortingo 17 and I am a rising senior ";
 }
         .font(.title2)
